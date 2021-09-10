@@ -85,7 +85,6 @@ contract SimpleBank {
       // 3. Add the amount to the user's balance. Hint: the amount can be
       //    accessed from of the global variable `msg`
 
-
       // 4. Emit the appropriate event associated with this function
 
       // 5. return the balance of sndr of this transaction
